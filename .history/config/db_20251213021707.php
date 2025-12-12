@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$dbname = "chat_app";
+$dbname = "social_app";
 $username = "root";
 $password = "";
 
